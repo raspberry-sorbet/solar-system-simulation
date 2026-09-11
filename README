@@ -26,4 +26,4 @@ Disclaimer: Please close each graph, to view the next one.
 To run Experiment 4 (Planetary Alignment):
     python experiment4.py
 
-Please note: the simulation will take some time to load before any results appear.”
+Please note: the simulation will take some time to load before any results appear.
